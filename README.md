@@ -1,6 +1,6 @@
-# Skincare E-Commerce Platform
+# SkinRx
 
-A Next.js full-stack skincare e-commerce platform featuring a lightning fast shopping experience, secure checkout with Paystack payments, headless CMS and intuitive product discovery tailored to individual skin types.
+SkinRx is a Next.js full-stack skincare e-commerce platform featuring a lightning fast shopping experience, secure checkout with Paystack payments, headless CMS and intuitive product discovery tailored to individual skin types.
 
 ## 🚀 Features
 
